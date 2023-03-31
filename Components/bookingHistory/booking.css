@@ -1,0 +1,57 @@
+
+#booking{
+    border: solid 2px black;
+    width: 1200px;
+    height: 580px;
+    /* margin-bottom: 0px; */
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+  
+
+  .bookingHeading{
+      height: 80px;
+      padding-left: 30px;
+      /* text-align: center; */
+      background-color: whitesmoke;
+      margin-top: 0px;
+      border-bottom: 2px solid black;
+       padding-top: 18px;
+  }
+  .bookingName{
+      margin-left: 20px;
+  }
+  
+  .bookingData{
+     display: flex;
+     justify-content: space-around;
+     padding-top: 35px;
+     
+  }
+  
+  .passwordInput{
+      width: 800px;
+      height: 45px;
+      background-color: whitesmoke;
+      font-size: 17px;
+      border-radius: 10px;
+  }
+  
+  .passwordBtn{
+      margin-top: 50px;
+      width: 800px;
+      height: 45px;
+      background-color: black;
+      color: whitesmoke;
+      font-size: 20px;
+      /* margin-left: 20px; */
+      border-radius: 20px;
+  }
+  
+  .btn3{
+    margin-left: 60px;
+    margin-bottom: 22px;
+  }
+  
+  
+  
